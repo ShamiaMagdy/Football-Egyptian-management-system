@@ -1,0 +1,15 @@
+﻿------ Build started: Project: Football_Egyptian_LeagueManagementSystem, Configuration: Debug x86 ------
+Build started 12/24/2017 4:30:51 AM.
+ResolveAssemblyReferences:
+  A TargetFramework profile exclusion list will be generated.
+CoreResGen:
+  No resources are out of date with respect to their source files. Skipping resource generation.
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+CopyFilesToOutputDirectory:
+  Football_Egyptian_LeagueManagementSystem -> C:\Users\ESCA\documents\visual studio 2010\Projects\Football_Egyptian_LeagueManagementSystem\Football_Egyptian_LeagueManagementSystem\bin\Debug\Football_Egyptian_LeagueManagementSystem.exe
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
